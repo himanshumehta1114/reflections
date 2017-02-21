@@ -1,1 +1,9 @@
 lesson 3 reflections here.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks:they are used to clone repositories between two github accounts.
+
+clones:they are used to clone from server to local machine and vice versa.
+
+branches:they are used to add temporary changes before permanently adding it to official code.
